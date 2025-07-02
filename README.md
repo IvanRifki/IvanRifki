@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IvanRifki?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
 <!--
 **IvanRifki/IvanRifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
